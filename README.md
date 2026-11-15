@@ -16,7 +16,7 @@
 3. Open the downloaded file and allow **"Install from unknown sources"** if prompted by Android.
 
 ### Option 2: Automatic Updates via Obtainium
-1. Install **[Obtainium](https://github.com)** on your Android device.
+1. Install **[https://github.com/ImranR98/Obtainium] on your Android device.
 2. Tap **Add App** and paste this repository link:
    ```text
    https://github.com
