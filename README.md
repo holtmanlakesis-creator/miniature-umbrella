@@ -24,7 +24,7 @@
 ## What is FreezioRaspy In Releases?
 
 Basically FreezioRaspy is the Non-premium Version, Has no WiFi Scanner But has a Cool Frost Wallpaper 
-
+Our Link To Copy (if you want to Send it to someone or a friend)
  ```text
    https://github.com/holtmanlakesis-creator/miniature-umbrella
    ```
