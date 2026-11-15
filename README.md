@@ -1,3 +1,5 @@
+<img width="360" height="360" alt="IMG_81467bda-d099-4e6e-9b63-ef41cf0550e8" src="https://github.com/user-attachments/assets/88cb93fc-281a-4ffc-87c4-9c90ac28da02" />
+
 # miniature-umbrella
 # Freezio — Free IP Lookup Application
 
