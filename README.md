@@ -20,4 +20,8 @@
    https://github.com
    ```
 3. Tap **Add** to install Freezio and receive automatic notifications whenever a new version is released.
+4. 
+## What is FreezioRaspy In Releases?
+
+Basically FreezioRaspy is the Non-premium Version, Has no WiFi Scanner But has a Cool Frost Wallpaper 
 
