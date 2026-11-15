@@ -16,13 +16,14 @@
 3. Open the downloaded file and allow **"Install from unknown sources"** if prompted by Android.
 
 ### Option 2: Automatic Updates via Obtainium
-1. Install **[https://github.com/ImranR98/Obtainium] on your Android device.
-2. Tap **Add App** and paste this repository link:
+1. Install
+2. [https://github.com/ImranR98/Obtainium] on your Android device.
+3. Tap **Add App** and paste this repository link:
    ```text
    https://github.com
    ```
-3. Tap **Add** to install Freezio and receive automatic notifications whenever a new version is released.
-4. 
+4. Tap **Add** to install Freezio and receive automatic notifications whenever a new version is released.
+5. 
 ## What is FreezioRaspy In Releases?
 
 Basically FreezioRaspy is the Non-premium Version, Has no WiFi Scanner But has a Cool Frost Wallpaper 
