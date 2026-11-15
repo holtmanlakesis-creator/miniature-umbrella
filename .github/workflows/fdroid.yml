@@ -1,0 +1,36 @@
+name: Build F-Droid Repo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install fdroidserver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fdroidserver default-jdk-headless
+
+      - name: Download Freezio APK and build F-Droid index
+        run: |
+          mkdir -p fdroid/repo
+          cd fdroid
+          if [ ! -f config.yml ]; then
+            fdroid init
+          fi
+          curl -L -o repo/Freezio.apk https://github.com
+          fdroid update --create-metadata
+
+      - name: Commit F-Droid repository files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+          git add fdroid/
+          git commit -m "Update F-Droid repo" || exit 0
+          git push
