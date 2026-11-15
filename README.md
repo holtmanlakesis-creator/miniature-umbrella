@@ -25,5 +25,6 @@
 
 Basically FreezioRaspy is the Non-premium Version, Has no WiFi Scanner But has a Cool Frost Wallpaper 
 
-Our Link:
-(https://github.com/holtmanlakesis-creator/miniature-umbrella)**
+ ```text
+   https://github.com/holtmanlakesis-creator/miniature-umbrella
+   ```
